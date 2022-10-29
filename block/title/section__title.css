@@ -1,0 +1,6 @@
+.section__title{
+    width: 60%;
+    margin:0 auto 0;
+    z-index: 10;
+    position: relative;
+}

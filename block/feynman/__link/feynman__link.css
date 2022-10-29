@@ -1,0 +1,14 @@
+.feynman__link{
+  text-decoration: none;
+  width: auto;
+z-index: 10;
+  margin:0;
+
+  position: absolute;
+  top:50%;
+  right: 48px;
+}
+.feynman__link:hover{
+  text-decoration: underline;
+
+}

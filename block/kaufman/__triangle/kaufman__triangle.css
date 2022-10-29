@@ -1,0 +1,13 @@
+.kaufman__triangle{
+  width:0;
+    height:0;
+    border-bottom: 877px solid #2f80ed;
+    border-left: 438.5px solid transparent;
+    border-right: 438.5px solid transparent;
+    border-top:0;
+position: absolute;
+right: 0;
+top: 0;
+margin-right: -210px;
+animation: header 20s linear infinite;
+}

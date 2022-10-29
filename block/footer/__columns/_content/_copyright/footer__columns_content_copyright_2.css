@@ -1,0 +1,6 @@
+.footer__columns_content_copyright_2{
+    width: 50%;
+    height: auto;
+  display:flex;
+  justify-content: space-between;
+}
